@@ -15,3 +15,15 @@
 .background-green{
     background-color: #1ABC9C;
 }
+
+.background-dark-blue{
+    background-color: #3A546D;
+}
+
+.border-radius{
+    border-radius: 10px;
+}
+
+.border-white{
+    border: 1px solid white;
+}
