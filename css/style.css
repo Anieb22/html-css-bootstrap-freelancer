@@ -28,6 +28,10 @@
     border: 1px solid white;
 }
 
-#profile h1, #profile h4{
+#profile h1, #profile h4, #about h1, #about h4, #about h6{
     color: white;
+}
+
+#portfolio h1{
+    color: #2C3E50;
 }
