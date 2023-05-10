@@ -72,3 +72,14 @@
     color: #1ABC9C;
     border: 1px solid #1ABC9C;
 }
+
+#indirizzi i{
+    border: 1px solid white;
+    border-radius: 50%;
+    transition-duration: 0.5s;
+}
+
+#indirizzi i:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
