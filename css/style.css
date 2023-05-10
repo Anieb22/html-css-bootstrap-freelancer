@@ -83,3 +83,8 @@
     transform: scale(1.2);
     cursor: pointer;
 }
+
+#navbar i:hover{
+    transition-duration: 0.5s;
+    color: #1ABC9C;
+}
